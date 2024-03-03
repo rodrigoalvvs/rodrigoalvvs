@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigoalvvs" alt="rodrigoalvvs" /></a> </p>
 
 - 📫 How to reach me **rodrigo.ferreira512@gmail.com**
 
