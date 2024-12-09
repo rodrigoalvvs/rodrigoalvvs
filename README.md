@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
+<pre>
+👋 Hi! I’m Rodrigo Alves, a student passionate about engineering and computer science. 
+Throughout my academic journey, I’ve explored areas such as mathematics, physics, algebra, statistics, and engineering, alongside technology-focused subjects like programming, data structures, computer networks, databases, software engineering, and operating systems.
+
+🎯 I’m always looking for new challenges to grow, contribute, and apply my knowledge in real-world scenarios. Let’s connect and exchange ideas!
+</pre>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rodrigo-alves-518488174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo-alves-518488174" height="30" width="40" /></a>
